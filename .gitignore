@@ -16,3 +16,5 @@ _site
 _includes/_static
 images/trash
 node_modules
+.history/
+logs/xvba_debug.log
