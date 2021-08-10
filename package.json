@@ -1,7 +1,7 @@
 {
   "name": "html-tags",
   "version": "1.0.0",
-  "description": "A visual guide to all HTML elements and attributes.",
+  "description": "Hướng dẫn chi tiết về các thẻ trong HTML và thuộc tính đi kèm.",
   "main": "css/website.sass",
   "scripts": {
     "build": "npm run build-clean && npm run build-sass && npm run build-autoprefix",
